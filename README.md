@@ -1,7 +1,3 @@
-Here’s the **updated README file** with your requirements incorporated, including the image, simplified installation instructions, and a focus on the three files (`knight.py`, `display.py`, and `__main__.py`):
-
----
-
 # **♞ Knight's Tour Solver - CSP Approach**  
 ### **Master 1 - Visual Computing, USTHB (2024/2025)**  
 
